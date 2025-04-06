@@ -4,7 +4,7 @@ Hello!👋 My name is Claudia Ursula Quispe Flores.
 <br><br>
 👩‍🎓 I am from National University of San Marcos taking a systems engineering.
 <br>
-👩‍💻 I have a huge interest in UI design as well coding!
+👩‍💻 I have a huge interest in cibersecurity as well coding!
 
 Skills:
 <br>
